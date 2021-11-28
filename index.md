@@ -1,7 +1,6 @@
-# _Static Websites Exercise_ 
-
-
 ## My Quick Static Site
+
+### _Static Websites Exercise_ 
 
 This is a site I build with gh-pages. **Wow**
 
