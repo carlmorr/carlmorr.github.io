@@ -1,4 +1,4 @@
-# _**Static Websites Exercise**_ 
+# _**'Static Websites' Exercise**_ 
 
 ## My Quick Static Site
 
