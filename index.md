@@ -8,4 +8,8 @@ It reads [markdown](https://www.markdownguide.org/) and turns it into html.
 
 ![gif ftw](https://media.giphy.com/media/nXxOjZrbnbRxS/200w_d.gif)
 
-![Grave!](![Uploading IMG_4931.jpeg)
+🏛️ 
+
+==important word==
+
+<mark>very important words</mark>
