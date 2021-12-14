@@ -10,6 +10,4 @@ It reads [markdown](https://www.markdownguide.org/) and turns it into html.
 
 🏛️ 
 
-==important word==
 
-<mark>very important words</mark>
