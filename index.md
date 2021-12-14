@@ -11,3 +11,4 @@ It reads [markdown](https://www.markdownguide.org/) and turns it into html.
 🏛️ 
 
 
+this is the [class graveyard data](https://digiarch.netlify.app/data/graveyards-data.csv).
